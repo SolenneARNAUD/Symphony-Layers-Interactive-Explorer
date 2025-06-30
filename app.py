@@ -8,10 +8,8 @@ from streamlit_plotly_events import plotly_events
 #############
 
 # File paths
-# doc_path = r"C:\Users\PC\Documents\Ecole\2A\Stage_2A\RISE\Gap_Analysis"
 df_SYMPHONY_LAYERS = "df_SYMPHONY_LAYERS.xlsx"
 df_recommendation_related_parameters = "df_recommendation_related_parameters.xlsx"
-SYMPHONY_LAYERS_path = f"{doc_path}/{df_SYMPHONY_LAYERS}"
 SYMPHONY_LAYERS_path = f"{df_SYMPHONY_LAYERS}"
 recommendation_related_parameters_path = f"{df_recommendation_related_parameters}"
 
